@@ -1,2 +1,1 @@
-#proj
-Description.
+assiment of lectuer 7
